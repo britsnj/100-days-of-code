@@ -2,11 +2,9 @@
 
 ### Day 1: December 22, 2019 
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Today's Progress**: completed the Basic HTML and CSS sections on the Free Code Camp Web developer section.
 
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
-
-**Link to work:** [Calculator App](http://www.example.com)
+**Thoughts:** 99% of the work covered was nothing new and I breezed through it. Will have to check the CSS variables section again as it is new to me. All in all very positive. spent about ltwo hours coding. Looking forward to tomorrow.
 
 ### Day 2: December 23, 2019
 
