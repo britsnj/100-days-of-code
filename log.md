@@ -20,6 +20,13 @@
 
 ### Day 4: December 25, 2019 (MERRY XMAS!!)
 
-**Today's Progress**: 
+**Today's Progress**: Applied Accessibility and Responsive Web Design on freeCodeCamp.org.
 
-**Thoughts** 
+**Thoughts**: Hi Ho Silver Away!!!
+
+### Day 5: December 26, 2019 (MERRY XMAS!!)
+
+**Today's Progress**: Flexbox and CSS Grid
+
+**Thoughts**: Feeling a little overwhelmed here. Need to practice like mad, especially on the flexbox. Brain not accepting justify and align quite yet.
+
